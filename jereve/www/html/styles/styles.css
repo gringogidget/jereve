@@ -1,0 +1,17 @@
+.jumbotron {
+    background-size: cover !important;
+    text-align: left;
+    height: 1010px;
+    border-radius: 0px;
+    background-position: center;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+.card {
+  margin-top: 32%;
+}
+
+p.forgot {
+  margin-top: 32px;
+}
